@@ -14,6 +14,6 @@ The chart is interactive and helps users observe **price trends**, **seasonality
 
 ### 🖼️ Screenshot
 
-![Milk Price Line Chart](https://via.placeholder.com/800x400.png?text=Milk+Price+Line+Chart+Placeholder)
+![Milk Price Line Chart](price-chart.png)
 
-> Replace the placeholder above with an actual screenshot of your running chart UI (e.g., after opening it in the browser).
+
